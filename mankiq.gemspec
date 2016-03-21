@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Add manual workers to sidekiq}
   spec.description   = %q{Add manual workers to sidekiq}
-  # spec.homepage      = "Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/pokka/mankiq"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
